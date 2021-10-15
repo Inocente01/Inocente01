@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Inocente01
-- 👀 I’m interested in ...IM innterested in coding 
+- 👀 I’m interested in ...Im innterested in coding 
 - 🌱 I’m currently learning ... about coding 
-- 💞️ I’m looking to collaborate on ... improving my knowledge with coding
+- 💞️ I’m looking to collaborate on ... improving my knowledge within coding
 - 📫 How to reach me ... Dircioinocente@gmail.com
 
 <!---
